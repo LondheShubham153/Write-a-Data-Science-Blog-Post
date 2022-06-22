@@ -1,6 +1,6 @@
 # to handle data
 pandas==0.24.2
-numpy==1.16.1
+numpy==1.22.0
 
 # to plot data
 matplotlib==3.0.3
